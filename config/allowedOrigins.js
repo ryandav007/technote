@@ -1,3 +1,3 @@
-const allowedOrigins = ["https://technote-frontend.vercel.app/"];
+const allowedOrigins = ["https://technote-frontend.vercel.app"];
 
 module.exports = allowedOrigins;
